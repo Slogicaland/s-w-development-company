@@ -1,0 +1,4 @@
+[21-Sep-2023 06:05:32 UTC] PHP Warning:  Undefined variable $email in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 77
+[21-Sep-2023 06:05:32 UTC] PHP Warning:  Undefined variable $subject in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 85
+[21-Sep-2023 06:05:32 UTC] PHP Warning:  Undefined variable $message in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 94
+[21-Sep-2023 06:05:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/formatting.php on line 4715

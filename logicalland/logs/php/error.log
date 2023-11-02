@@ -1,0 +1,1802 @@
+[11-Sep-2023 07:38:10 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 07:41:41 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 07:53:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 07:57:05 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 07:57:27 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:24:01 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:28:45 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:31:04 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:35:40 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:39:38 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:41:02 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:41:03 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:41:20 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:41:55 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:42:38 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:42:38 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:43:02 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Sep-2023 08:43:37 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 00:58:02 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:20:07 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:25:12 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:29:11 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:31:24 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:31:28 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:31:28 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:31:29 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 06:31:29 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Sep-2023 07:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_origin_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-ajax.php:25
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-ajax.php on line 25
+[12-Sep-2023 07:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/theme-editor.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/theme-editor.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/theme-editor.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/themes.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/themes.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php:36
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/plugins.php(10): require_once()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin.php on line 36
+[12-Sep-2023 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 07:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php:16
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require()
+#1 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php on line 16
+[12-Sep-2023 08:33:13 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/logicaland/header.php on line 18
+[12-Sep-2023 08:33:14 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/logicaland/header.php on line 18
+[12-Sep-2023 08:43:29 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:32 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:47 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:52 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:52 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:54 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:54 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:54 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:56 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:43:57 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:48:12 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:48:20 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:09 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:09 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:24 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[12-Sep-2023 08:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function logicaland_posted_on() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/logicaland/template-parts/content.php:25
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(787): require()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', false, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/logicaland/archive.php(34): get_template_part('template-parts/...', 'post')
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/logicaland/template-parts/content.php on line 25
+[12-Sep-2023 19:09:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[12-Sep-2023 19:09:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[12-Sep-2023 19:09:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[13-Sep-2023 05:19:26 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[13-Sep-2023 05:19:33 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[13-Sep-2023 05:29:28 UTC] PHP Fatal error:  Cannot redeclare add_widget_support() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:28) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:29:30 UTC] PHP Fatal error:  Cannot redeclare add_widget_support() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:28) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:29:32 UTC] PHP Fatal error:  Cannot redeclare add_widget_support() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:28) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:29:35 UTC] PHP Fatal error:  Cannot redeclare add_widget_support() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:28) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:29:37 UTC] PHP Fatal error:  Cannot redeclare add_widget_support() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:28) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:28 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:28 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:28 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:28 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:40 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:40 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:44 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[13-Sep-2023 05:31:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[13-Sep-2023 05:31:44 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:45 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:45 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:47 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:48 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:31:48 UTC] PHP Parse error:  syntax error, unexpected identifier "add_widget_support" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 8
+[13-Sep-2023 05:33:38 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:38 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 05:33:39 UTC] PHP Parse error:  Unclosed '{' on line 25 in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php on line 38
+[13-Sep-2023 06:21:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:21:09 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:21:09 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:21:50 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:21:50 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:38 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:39 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:39 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:39 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:39 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:42 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:22:50 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:11 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:12 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:16 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:56 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:24:59 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:28 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:29 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:29 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:30 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:46 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:25:59 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:17 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:17 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:18 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:20 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:21 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:26:22 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:27:22 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:27:59 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:00 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:03 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:06 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:10 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:11 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:29 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:32 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:54 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:55 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:28:57 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:00 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:02 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:08 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:11 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:12 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:12 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:13 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:14 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:15 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:15 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:16 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:16 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:16 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:17 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:29:19 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:30:14 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:30:15 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:30:28 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:30:29 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:30:49 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:13 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:13 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:14 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:20 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:21 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:31:32 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/functions.php on line 5453
+[13-Sep-2023 06:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 06:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function about_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[13-Sep-2023 07:22:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php on line 18
+[13-Sep-2023 07:22:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php on line 18
+[13-Sep-2023 07:43:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[13-Sep-2023 07:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 1
+[14-Sep-2023 02:07:51 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 24
+[15-Sep-2023 02:31:35 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 02:31:43 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 02:31:43 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[15-Sep-2023 02:32:40 UTC] PHP Deprecated:  Return type of WP_CLI\Iterators\Transform::current() should either be compatible with IteratorIterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Iterators/Transform.php on line 18
+[15-Sep-2023 02:32:40 UTC] PHP Deprecated:  Return type of WP_CLI\Iterators\Transform::current() should either be compatible with IteratorIterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Iterators/Transform.php on line 18
+[19-Sep-2023 00:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function single_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:19
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 00:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function single_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:19
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 00:27:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function single_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:19
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 00:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function single_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:19
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 00:28:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function single_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:19
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 00:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function page_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:18
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 18
+[19-Sep-2023 00:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function index_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[19-Sep-2023 00:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function index_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[19-Sep-2023 00:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function index_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:17
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 17
+[19-Sep-2023 00:29:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:32
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 32
+[19-Sep-2023 00:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:43:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:43:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 00:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:01:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:01:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_single() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:32
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 32
+[19-Sep-2023 01:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:32
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 32
+[19-Sep-2023 01:09:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:32
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 32
+[19-Sep-2023 01:27:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 01:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:44
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 44
+[19-Sep-2023 05:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php:43
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#2 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#3 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php on line 43
+[19-Sep-2023 06:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function contact_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:20
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 20
+[19-Sep-2023 06:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function contact_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:20
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 20
+[19-Sep-2023 06:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function contact_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:20
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 20
+[19-Sep-2023 06:56:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function contact_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:20
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 20
+[19-Sep-2023 06:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function contact_url() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:20
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/index.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 20
+[19-Sep-2023 07:02:06 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[19-Sep-2023 07:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_Access() in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php:2
+Stack trace:
+#0 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(785): require_once()
+#1 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template.php(720): load_template('/Users/sanjay/L...', true, Array)
+#2 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/page.php(1): get_header()
+#4 /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/template-loader.php(106): include('/Users/sanjay/L...')
+#5 /Users/sanjay/Local Sites/logicalland/app/public/wp-blog-header.php(19): require_once('/Users/sanjay/L...')
+#6 /Users/sanjay/Local Sites/logicalland/app/public/index.php(17): require('/Users/sanjay/L...')
+#7 {main}
+  thrown in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 2
+[19-Sep-2023 07:48:36 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:39 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:41 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:42 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:42 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:43 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 07:48:43 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 4
+[19-Sep-2023 08:00:26 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 08:00:27 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/header.php on line 19
+[19-Sep-2023 08:40:29 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:40:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:40:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:40:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:40:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:40:54 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 10
+[19-Sep-2023 08:40:54 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 10
+[19-Sep-2023 08:40:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 10
+[19-Sep-2023 08:41:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:41:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 08:41:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/Access.php on line 9
+[19-Sep-2023 18:59:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[19-Sep-2023 18:59:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[19-Sep-2023 18:59:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[20-Sep-2023 04:19:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 04:19:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 16
+[20-Sep-2023 06:46:53 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[21-Sep-2023 02:15:51 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 69
+[21-Sep-2023 02:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 18
+[21-Sep-2023 02:21:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 18
+[21-Sep-2023 02:21:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 17
+[21-Sep-2023 02:21:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 17
+[21-Sep-2023 02:22:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 17
+[21-Sep-2023 04:35:30 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:35:52 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:35:56 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:37:16 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:37:30 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:40:45 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 04:40:48 UTC] PHP Fatal error:  Cannot redeclare send_email_with_mailtrap() (previously declared in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/functions.php:14) in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 50
+[21-Sep-2023 05:48:18 UTC] PHP Warning:  Undefined variable $email in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 77
+[21-Sep-2023 05:48:18 UTC] PHP Warning:  Undefined variable $subject in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 85
+[21-Sep-2023 05:48:18 UTC] PHP Warning:  Undefined variable $message in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 94
+[21-Sep-2023 05:48:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/formatting.php on line 4715
+[21-Sep-2023 07:44:46 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/plugins/post-smtp/Postman/PostmanInstaller.php on line 294
+[21-Sep-2023 07:48:02 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: Array
+(
+    [0] => PostmanWizardSocket Object
+        (
+            [hostname] => api.sendgrid.com
+            [hostnameDomainOnly] => sendgrid.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.sendgrid.com
+            [reportedHostnameDomainOnly] => sendgrid.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sendgrid_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sendgrid.png
+                )
+
+            [label] => 
+            [id] => api.sendgrid.com_443
+        )
+
+    [1] => PostmanWizardSocket Object
+        (
+            [hostname] => mandrillapp.com
+            [hostnameDomainOnly] => mandrillapp.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => mandrillapp.com
+            [reportedHostnameDomainOnly] => mandrillapp.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mandrill_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/mandrill.png
+                )
+
+            [label] => 
+            [id] => mandrillapp.com_443
+        )
+
+    [2] => PostmanWizardSocket Object
+        (
+            [hostname] => api.mailgun.net
+            [hostnameDomainOnly] => mailgun.net
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.mailgun.net
+            [reportedHostnameDomainOnly] => mailgun.net
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mailgun_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/mailgun.png
+                )
+
+            [label] => 
+            [id] => api.mailgun.net_443
+        )
+
+    [3] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.postmarkapp.com
+            [hostnameDomainOnly] => postmarkapp.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => p-pm-outboundg01a-aws-apnortheast2a.smtpservice.postmarkapp.com
+            [reportedHostnameDomainOnly] => postmarkapp.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => postmark_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/postmark.png
+                )
+
+            [label] => 
+            [id] => smtp.postmarkapp.com_587
+        )
+
+    [4] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp-relay.brevo.com
+            [hostnameDomainOnly] => brevo.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => smtp-relay.brevo.com
+            [reportedHostnameDomainOnly] => brevo.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sendinblue_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sendinblue.png
+                )
+
+            [label] => 
+            [id] => smtp-relay.brevo.com_587
+        )
+
+    [5] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sparkpostmail.com
+            [hostnameDomainOnly] => sparkpostmail.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 1
+            [reportedHostname] => 2.0.0
+            [reportedHostnameDomainOnly] => 0.0
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sparkpost_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sparkpost.png
+                )
+
+            [label] => 
+            [id] => smtp.sparkpostmail.com_587
+        )
+
+    [6] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 465
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_465
+        )
+
+    [7] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 25
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_25
+        )
+
+    [8] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 587
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_587
+        )
+
+    [9] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.elasticemail.com
+            [hostnameDomainOnly] => elasticemail.com
+            [port] => 2525
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => smtp.elasticemail.com
+            [reportedHostnameDomainOnly] => elasticemail.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => elasticemail_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/elasticemail.png
+                )
+
+            [label] => 
+            [id] => smtp.elasticemail.com_2525
+        )
+
+)
+
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: SendGrid API
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mandrill API
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mailgun API
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: PostMark
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: Brevo (formely Sendinblue)
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: SparkPost
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:08 UTC] ERROR PostmanManageConfigurationAjaxHandler: Elastic Email
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: Array
+(
+    [0] => PostmanWizardSocket Object
+        (
+            [hostname] => api.sendgrid.com
+            [hostnameDomainOnly] => sendgrid.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.sendgrid.com
+            [reportedHostnameDomainOnly] => sendgrid.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sendgrid_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sendgrid.png
+                )
+
+            [label] => 
+            [id] => api.sendgrid.com_443
+        )
+
+    [1] => PostmanWizardSocket Object
+        (
+            [hostname] => mandrillapp.com
+            [hostnameDomainOnly] => mandrillapp.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => mandrillapp.com
+            [reportedHostnameDomainOnly] => mandrillapp.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mandrill_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/mandrill.png
+                )
+
+            [label] => 
+            [id] => mandrillapp.com_443
+        )
+
+    [2] => PostmanWizardSocket Object
+        (
+            [hostname] => api.mailgun.net
+            [hostnameDomainOnly] => mailgun.net
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.mailgun.net
+            [reportedHostnameDomainOnly] => mailgun.net
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mailgun_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/mailgun.png
+                )
+
+            [label] => 
+            [id] => api.mailgun.net_443
+        )
+
+    [3] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.postmarkapp.com
+            [hostnameDomainOnly] => postmarkapp.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => p-pm-outboundg01a-aws-apnortheast2a.smtpservice.postmarkapp.com
+            [reportedHostnameDomainOnly] => postmarkapp.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => postmark_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/postmark.png
+                )
+
+            [label] => 
+            [id] => smtp.postmarkapp.com_587
+        )
+
+    [4] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp-relay.brevo.com
+            [hostnameDomainOnly] => brevo.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => smtp-relay.brevo.com
+            [reportedHostnameDomainOnly] => brevo.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sendinblue_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sendinblue.png
+                )
+
+            [label] => 
+            [id] => smtp-relay.brevo.com_587
+        )
+
+    [5] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sparkpostmail.com
+            [hostnameDomainOnly] => sparkpostmail.com
+            [port] => 587
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 1
+            [reportedHostname] => 2.0.0
+            [reportedHostnameDomainOnly] => 0.0
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sparkpost_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/sparkpost.png
+                )
+
+            [label] => 
+            [id] => smtp.sparkpostmail.com_587
+        )
+
+    [6] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 465
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_465
+        )
+
+    [7] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 25
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_25
+        )
+
+    [8] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.sendergrid.net
+            [hostnameDomainOnly] => sendergrid.net
+            [port] => 587
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/smtp.png
+                )
+
+            [label] => 
+            [id] => smtp.sendergrid.net_587
+        )
+
+    [9] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.elasticemail.com
+            [hostnameDomainOnly] => elasticemail.com
+            [port] => 2525
+            [protocol] => SMTP
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => smtp.elasticemail.com
+            [reportedHostnameDomainOnly] => elasticemail.com
+            [message] => 
+            [startTls] => 1
+            [authPlain] => 1
+            [auth_login] => 1
+            [auth_crammd5] => 1
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => elasticemail_api
+            [data] => Array
+                (
+                    [logo_url] => http://localhost:10003/wp-content/plugins/post-smtp/assets/images/logos/elasticemail.png
+                )
+
+            [label] => 
+            [id] => smtp.elasticemail.com_2525
+        )
+
+)
+
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: SendGrid API
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mandrill API
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mailgun API
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: PostMark
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: Brevo (formely Sendinblue)
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: SparkPost
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[21-Sep-2023 07:49:20 UTC] ERROR PostmanManageConfigurationAjaxHandler: Elastic Email
+[21-Sep-2023 07:51:30 UTC] PHP Warning:  Undefined array key "fallback_smtp_password" in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/plugins/post-smtp/Postman/PostmanInputSanitizer.php on line 167
+[21-Sep-2023 07:51:46 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[21-Sep-2023 07:52:03 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[21-Sep-2023 07:52:03 UTC] ERROR PostmanSendTestEmailAjaxController: Test Email NOT delivered to server - 0
+[21-Sep-2023 07:52:49 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[21-Sep-2023 07:52:55 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[21-Sep-2023 07:52:55 UTC] ERROR PostmanSendTestEmailAjaxController: Test Email NOT delivered to server - 0
+[21-Sep-2023 07:53:16 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[21-Sep-2023 07:53:16 UTC] ERROR PostmanEmailLogs: Email was not successfully re-sent - 0
+[21-Sep-2023 14:03:09 UTC] PHP Warning:  Undefined variable $email in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 77
+[21-Sep-2023 14:03:09 UTC] PHP Warning:  Undefined variable $subject in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 85
+[21-Sep-2023 14:03:09 UTC] PHP Warning:  Undefined variable $message in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 94
+[21-Sep-2023 14:03:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/formatting.php on line 4715
+[21-Sep-2023 14:03:20 UTC] PHP Warning:  Undefined variable $email in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 77
+[21-Sep-2023 14:03:20 UTC] PHP Warning:  Undefined variable $subject in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 85
+[21-Sep-2023 14:03:20 UTC] PHP Warning:  Undefined variable $message in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 94
+[21-Sep-2023 14:03:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/formatting.php on line 4715
+[21-Sep-2023 14:03:21 UTC] PHP Warning:  Undefined variable $email in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 77
+[21-Sep-2023 14:03:21 UTC] PHP Warning:  Undefined variable $subject in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 85
+[21-Sep-2023 14:03:21 UTC] PHP Warning:  Undefined variable $message in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 94
+[21-Sep-2023 14:03:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/formatting.php on line 4715
+[22-Sep-2023 02:09:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Sep-2023 02:10:40 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:20 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:21 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:34 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:44 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:45 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:53 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:28:58 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:30:50 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:30:50 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 02:31:19 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:31:20 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 02:31:36 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:31:44 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:31:45 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 02:33:43 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:33:43 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 02:35:06 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:35:07 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 02:39:09 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 02:39:09 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "From" e-mail address ""
+[22-Sep-2023 04:14:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[22-Sep-2023 04:14:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[22-Sep-2023 04:14:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[22-Sep-2023 04:14:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[22-Sep-2023 04:14:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[22-Sep-2023 04:28:12 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[22-Sep-2023 04:29:51 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[22-Sep-2023 04:30:03 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[22-Sep-2023 04:30:07 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[22-Sep-2023 06:05:10 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 06:05:11 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 06:07:16 UTC] ERROR PostmanWpMail: Exception code=0 message=Code: 403, Message: Forbidden, Body: {"errors":[{"message":"The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements","field":"from","help":null}]}
+[22-Sep-2023 06:10:23 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 06:10:24 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:07:47 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:07:48 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:08:43 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:08:44 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:09:52 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:09:52 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:09:57 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:10:00 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:10:15 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:06 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:07 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:10 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:17 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:18 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:57 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:42:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:43:07 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:43:09 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 07:43:10 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/admin-header.php on line 36
+[22-Sep-2023 08:02:23 UTC] PHP Deprecated:  Implicit conversion from float NAN to int loses precision in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/plugins/post-smtp/Postman/PostmanUtils.php on line 215
+[22-Sep-2023 08:03:43 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 13:43:36 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 02:10:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[24-Sep-2023 02:10:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[24-Sep-2023 02:10:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[24-Sep-2023 02:11:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/includes/plugin-install.php on line 183
+[24-Sep-2023 02:11:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/includes/plugin-install.php on line 183
+[24-Sep-2023 05:28:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[24-Sep-2023 05:28:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[24-Sep-2023 05:28:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[24-Sep-2023 23:52:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 41
+[24-Sep-2023 23:52:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 41
+[24-Sep-2023 23:52:47 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/sanjay/Local Sites/logicalland/app/public/wp-content/themes/my-theme/contact.php on line 41
+[25-Sep-2023 02:39:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[26-Sep-2023 05:42:42 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[26-Sep-2023 05:42:42 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[26-Sep-2023 06:51:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[26-Sep-2023 06:51:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[29-Sep-2023 10:57:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[29-Sep-2023 10:57:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[29-Sep-2023 10:57:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[29-Sep-2023 10:57:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[01-Oct-2023 11:35:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[01-Oct-2023 11:35:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[01-Oct-2023 11:35:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[05-Oct-2023 01:54:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 01:54:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 01:54:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[06-Oct-2023 07:10:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[06-Oct-2023 07:10:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[06-Oct-2023 07:10:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[10-Oct-2023 02:02:52 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[20-Oct-2023 08:58:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[01-Nov-2023 12:29:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[01-Nov-2023 12:30:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[01-Nov-2023 12:30:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[01-Nov-2023 12:30:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/class-wpdb.php on line 2035
+[01-Nov-2023 12:30:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 211
+[01-Nov-2023 12:30:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 449
+[01-Nov-2023 12:30:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-includes/update.php on line 730
+[01-Nov-2023 12:30:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/sanjay/Local Sites/logicalland/app/public/wp-admin/includes/update.php on line 154
